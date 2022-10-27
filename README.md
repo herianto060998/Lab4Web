@@ -67,3 +67,11 @@ BOTH <p>
 ![gambar28](pc/i.png.png)
 ![gambar29](pc/i1.png.png)
 
+# MENAMBAHKAN ELEMEN LAINNYA PADA MAIN CONTENT
+
+![gambar30](pc/j.png.png)
+![gambar31](pc/j1.png.png)
+![gambar31](pc/j2.png.png)
+
+
+
