@@ -58,5 +58,12 @@ BOTH <p>
 
 ## MEMBUAT SIDEBAR WIDGET
 
+![gambar25](pc/h.png.png)
+![gambar26](pc/h1.png.png)
+![gambar27](pc/h2.png.png)
 
+# MENGATUR FOOTER
+
+![gambar28](pc/i.png.png)
+![gambar29](pc/i1.png.png)
 
