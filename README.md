@@ -73,5 +73,40 @@ BOTH <p>
 ![gambar31](pc/j1.png.png)
 ![gambar31](pc/j2.png.png)
 
+# MENAMBAHKAN KONTEN ARTIKEL 
+
+![gambar32](pc/k.png.png)
+![gambar33](pc/k1.png.png)
+
+## TUGAS
+
+1. Tambahkan Layout untuk menu About<p>
+=> buat single layout yang berisi deskripsi, portfolio, dll<p>
+
+berikut ini file document HTML dari tugas nomor 1<p>
+![gambar34](pc/l.png.png)
+![gambar35](pc/l1.png.png)
+![gambar36](pc/l2.png.png)
+![gambar37](pc/l3.png.png)
+
+berikut tampilan menu about<p>
+![gambar38](pc/m.png.png)
+![gambar39](pc/m1.png.png)
+
+2. Tambahkan layout untuk menu Contact<p>
+=> yang berisi form isian: nama, email, message,dll<p>
+
+berikut ini file HTML dari tugas nomor 2<p>
+![gambar41](pc/n.png.png)
+![gambar42](pc/n1.png.png)
+![gambar43](pc/n2.png.png)
+
+berikut ini tampilan menu kontak<p>
+
+![gambar44](pc/o.png.png)
+
+
+
+
 
 
